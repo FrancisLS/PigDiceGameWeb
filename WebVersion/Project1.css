@@ -1,0 +1,18 @@
+.off {display: none;}
+
+html{
+  background-image: linear-gradient(to bottom right,#ffafbd,#ffc3a0);
+  text-align: center;
+}
+
+#start,#roll,#hold,#end,#rules,#return {background-color: #fcd4f8;}
+
+ul {text-align: left;
+border-width: thin;
+margin-left: 100px;
+margin-right: 100px;
+}
+
+#pig1 {padding-right: 120px;}
+
+#pig2 {padding-left: 120px;}
